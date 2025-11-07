@@ -1,13 +1,15 @@
 {
+  "name": "瓜子影视配置", // TVbox 中显示的配置名称（自定义）
   "sites": [
     {
-  "key": "瓜子影视",
-            "name": "○瓜子影视",
-            "type": 3,"jar": " (https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar)https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar", (https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar)
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+      "key": "瓜子影视",
+      "name": "👖瓜子影视✈️TG频道@stymei1",
+      "type": 3,
+      "jar": "https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
